@@ -14,7 +14,7 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 
 ## 🖼 Screenshot
 
-![Screenshot](C:\Users\Dell\Desktop\Kanban board\Screenshot (77).png)
+![Screenshot](https://github.com/Ananya-230911/Kanban-Board/blob/main/Screenshot%20(77).png?raw=true)
 
 ## 🌐 Live Demo
 
@@ -29,4 +29,5 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 ```bash
 git clone https://github.com/Ananya-230911/Kanban_Board.git
 cd Kanban_Board
+
 start index.html
