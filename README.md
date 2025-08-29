@@ -27,7 +27,8 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 3. Double-click index.html to launch it in your browser — that’s it!
 
 ```bash
-git clone https://github.com/Ananya-230911/Kanban_Board.git
-cd Kanban_Board
+git clone https://github.com/Ananya-230911/Kanban-Board
+cd Kanban-Board
 
 start index.html
+
