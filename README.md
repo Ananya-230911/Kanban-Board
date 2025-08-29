@@ -18,7 +18,7 @@ A beautiful, feature-packed task manager web app to organize your daily life. Bu
 
 ## 🌐 Live Demo
 
-👉 [Click here to view it live](https://github.com/Ananya-230911/Kanban-Board)
+👉 [Click here to view it live](https://Ananya-230911.github.io/Kanban-Board)
 
 ## 💻 How to Run
 
@@ -31,5 +31,6 @@ git clone https://github.com/Ananya-230911/Kanban-Board
 cd Kanban-Board
 
 start index.html
+
 
 
